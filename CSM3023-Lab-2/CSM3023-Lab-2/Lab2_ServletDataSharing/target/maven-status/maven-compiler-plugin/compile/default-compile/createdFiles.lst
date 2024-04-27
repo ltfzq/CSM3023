@@ -1,0 +1,4 @@
+com\mycompany\lab2_servletdatasharing\resources\JakartaEE10Resource.class
+AccountServlet.class
+com\mycompany\lab2_servletdatasharing\JakartaRestConfiguration.class
+LoginServlet.class
